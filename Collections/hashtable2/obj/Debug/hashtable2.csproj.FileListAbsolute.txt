@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashtable2\bin\Debug\hashtable2.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashtable2\bin\Debug\hashtable2.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashtable2\bin\Debug\hashtable2.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashtable2\obj\Debug\hashtable2.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashtable2\obj\Debug\hashtable2.pdb
