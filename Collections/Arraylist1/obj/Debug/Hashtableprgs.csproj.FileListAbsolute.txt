@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Arraylist1\bin\Debug\Arraylist1.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Arraylist1\obj\Debug\Hashtableprgs.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Arraylist1\bin\Debug\Arraylist1.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Arraylist1\bin\Debug\Arraylist1.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Arraylist1\obj\Debug\Arraylist1.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Arraylist1\obj\Debug\Arraylist1.pdb
