@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Arraylistprg\obj\Debug\Arraylistprg.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Arraylistprg\bin\Debug\Arraylistprg.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Arraylistprg\bin\Debug\Arraylistprg.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Arraylistprg\obj\Debug\Arraylistprg.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Arraylistprg\obj\Debug\Arraylistprg.pdb

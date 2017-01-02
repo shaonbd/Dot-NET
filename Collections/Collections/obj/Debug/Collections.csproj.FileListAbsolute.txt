@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Collections\bin\Debug\Collections.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Collections\bin\Debug\Collections.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Collections\bin\Debug\Collections.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Collections\obj\Debug\Collections.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\Collections\obj\Debug\Collections.pdb

@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Binnarysearch\bin\Debug\Binnarysearch.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Binnarysearch\bin\Debug\Binnarysearch.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Binnarysearch\obj\Debug\Binnarysearch.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Binnarysearch\obj\Debug\Binnarysearch.pdb
