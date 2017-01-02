@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Yieldprgs\bin\Debug\Yieldprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Yieldprgs\bin\Debug\Yieldprgs.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Yieldprgs\obj\Debug\Yieldprgs.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Yieldprgs\obj\Debug\Yieldprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Yieldprgs\obj\Debug\Yieldprgs.pdb
