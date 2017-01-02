@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Genericprgs\bin\Debug\Genericprgs.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Genericprgs\bin\Debug\Genericprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Genericprgs\bin\Debug\Genericprgs.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Genericprgs\obj\Debug\Genericprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Genericprgs\obj\Debug\Genericprgs.pdb

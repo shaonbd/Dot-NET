@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\differencelistandarraylist\obj\Debug\differencelistandarraylist.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\differencelistandarraylist\bin\Debug\differencelistandarraylist.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\differencelistandarraylist\bin\Debug\differencelistandarraylist.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\differencelistandarraylist\obj\Debug\differencelistandarraylist.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\differencelistandarraylist\obj\Debug\differencelistandarraylist.pdb

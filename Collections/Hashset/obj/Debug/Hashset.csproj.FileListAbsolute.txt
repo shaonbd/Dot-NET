@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashset\bin\Debug\Hashset.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashset\bin\Debug\Hashset.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashset\bin\Debug\Hashset.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashset\obj\Debug\Hashset.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashset\obj\Debug\Hashset.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashset\obj\Debug\Hashset.pdb

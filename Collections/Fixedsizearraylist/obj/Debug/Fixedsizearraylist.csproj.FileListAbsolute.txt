@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Fixedsizearraylist\bin\Debug\Fixedsizearraylist.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Fixedsizearraylist\bin\Debug\Fixedsizearraylist.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Fixedsizearraylist\obj\Debug\Fixedsizearraylist.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Fixedsizearraylist\obj\Debug\Fixedsizearraylist.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Fixedsizearraylist\obj\Debug\Fixedsizearraylist.csprojResolveAssemblyReference.cache

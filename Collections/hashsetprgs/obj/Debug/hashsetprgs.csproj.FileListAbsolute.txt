@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashsetprgs\bin\Debug\hashsetprgs.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashsetprgs\bin\Debug\hashsetprgs.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashsetprgs\bin\Debug\hashsetprgs.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashsetprgs\obj\Debug\hashsetprgs.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashsetprgs\obj\Debug\hashsetprgs.exe
+c:\users\admin\documents\visual studio 2012\Projects\Collections\hashsetprgs\obj\Debug\hashsetprgs.pdb
