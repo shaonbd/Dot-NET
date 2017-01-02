@@ -1,0 +1,6 @@
+D:\kamal\Csharp3.0newfeatures\bin\Debug\Csharp3.0newfeatures.exe.config
+D:\kamal\Csharp3.0newfeatures\obj\Debug\Csharp3.0newfeatures.csprojResolveAssemblyReference.cache
+D:\kamal\Csharp3.0newfeatures\bin\Debug\Csharp3.0newfeatures.exe
+D:\kamal\Csharp3.0newfeatures\bin\Debug\Csharp3.0newfeatures.pdb
+D:\kamal\Csharp3.0newfeatures\obj\Debug\Csharp3.0newfeatures.exe
+D:\kamal\Csharp3.0newfeatures\obj\Debug\Csharp3.0newfeatures.pdb

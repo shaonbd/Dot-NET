@@ -1,0 +1,6 @@
+D:\kamal\Csharp3.0newfeatures\GenericDelegateconcepts\bin\Debug\GenericDelegateconcepts.exe.config
+D:\kamal\Csharp3.0newfeatures\GenericDelegateconcepts\obj\Debug\GenericDelegateconcepts.csprojResolveAssemblyReference.cache
+D:\kamal\Csharp3.0newfeatures\GenericDelegateconcepts\bin\Debug\GenericDelegateconcepts.exe
+D:\kamal\Csharp3.0newfeatures\GenericDelegateconcepts\bin\Debug\GenericDelegateconcepts.pdb
+D:\kamal\Csharp3.0newfeatures\GenericDelegateconcepts\obj\Debug\GenericDelegateconcepts.exe
+D:\kamal\Csharp3.0newfeatures\GenericDelegateconcepts\obj\Debug\GenericDelegateconcepts.pdb
