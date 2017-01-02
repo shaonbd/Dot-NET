@@ -1,0 +1,5 @@
+D:\kamal\Csharp3.0newfeatures\ExpressionTrees\bin\Debug\ExpressionTrees.exe.config
+D:\kamal\Csharp3.0newfeatures\ExpressionTrees\bin\Debug\ExpressionTrees.exe
+D:\kamal\Csharp3.0newfeatures\ExpressionTrees\bin\Debug\ExpressionTrees.pdb
+D:\kamal\Csharp3.0newfeatures\ExpressionTrees\obj\Debug\ExpressionTrees.exe
+D:\kamal\Csharp3.0newfeatures\ExpressionTrees\obj\Debug\ExpressionTrees.pdb

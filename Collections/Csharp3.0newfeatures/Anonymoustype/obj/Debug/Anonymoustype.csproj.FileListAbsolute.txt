@@ -1,0 +1,6 @@
+D:\kamal\Csharp3.0newfeatures\Anonymoustype\bin\Debug\Anonymoustype.exe.config
+D:\kamal\Csharp3.0newfeatures\Anonymoustype\bin\Debug\Anonymoustype.exe
+D:\kamal\Csharp3.0newfeatures\Anonymoustype\bin\Debug\Anonymoustype.pdb
+D:\kamal\Csharp3.0newfeatures\Anonymoustype\obj\Debug\Anonymoustype.csprojResolveAssemblyReference.cache
+D:\kamal\Csharp3.0newfeatures\Anonymoustype\obj\Debug\Anonymoustype.exe
+D:\kamal\Csharp3.0newfeatures\Anonymoustype\obj\Debug\Anonymoustype.pdb

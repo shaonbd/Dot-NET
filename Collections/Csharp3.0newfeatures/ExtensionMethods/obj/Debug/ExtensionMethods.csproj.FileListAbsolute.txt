@@ -1,0 +1,8 @@
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\bin\Debug\Extensionclass.dll
+D:\kamal\Csharp3.0newfeatures\ExtensionMethods\bin\Debug\Extensionclass.pdb

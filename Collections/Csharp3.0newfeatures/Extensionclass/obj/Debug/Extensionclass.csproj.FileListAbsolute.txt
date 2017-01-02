@@ -1,0 +1,5 @@
+D:\kamal\Csharp3.0newfeatures\Extensionclass\bin\Debug\Extensionclass.dll
+D:\kamal\Csharp3.0newfeatures\Extensionclass\bin\Debug\Extensionclass.pdb
+D:\kamal\Csharp3.0newfeatures\Extensionclass\obj\Debug\Extensionclass.csprojResolveAssemblyReference.cache
+D:\kamal\Csharp3.0newfeatures\Extensionclass\obj\Debug\Extensionclass.dll
+D:\kamal\Csharp3.0newfeatures\Extensionclass\obj\Debug\Extensionclass.pdb
