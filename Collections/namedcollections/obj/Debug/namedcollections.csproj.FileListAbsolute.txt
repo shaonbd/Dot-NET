@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\namedcollections\bin\Debug\namedcollections.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\namedcollections\obj\Debug\namedcollections.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\namedcollections\bin\Debug\namedcollections.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\namedcollections\bin\Debug\namedcollections.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\namedcollections\obj\Debug\namedcollections.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\namedcollections\obj\Debug\namedcollections.pdb

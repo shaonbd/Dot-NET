@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlistwithtype\bin\Debug\sortedlistwithtype.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlistwithtype\bin\Debug\sortedlistwithtype.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlistwithtype\obj\Debug\sortedlistwithtype.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlistwithtype\obj\Debug\sortedlistwithtype.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlistwithtype\obj\Debug\sortedlistwithtype.pdb

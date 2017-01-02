@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\practicalprgs\bin\Debug\practicalprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\practicalprgs\bin\Debug\practicalprgs.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\practicalprgs\obj\Debug\practicalprgs.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\practicalprgs\obj\Debug\practicalprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\practicalprgs\obj\Debug\practicalprgs.pdb

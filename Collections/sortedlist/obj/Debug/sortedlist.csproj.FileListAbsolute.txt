@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlist\bin\Debug\sortedlist.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlist\bin\Debug\sortedlist.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlist\bin\Debug\sortedlist.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlist\obj\Debug\sortedlist.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlist\obj\Debug\sortedlist.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\sortedlist\obj\Debug\sortedlist.pdb
