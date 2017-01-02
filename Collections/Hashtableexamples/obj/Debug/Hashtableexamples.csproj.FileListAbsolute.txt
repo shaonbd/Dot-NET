@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashtableexamples\bin\Debug\Hashtableexamples.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashtableexamples\bin\Debug\Hashtableexamples.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashtableexamples\obj\Debug\Hashtableexamples.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashtableexamples\obj\Debug\Hashtableexamples.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Hashtableexamples\obj\Debug\Hashtableexamples.pdb

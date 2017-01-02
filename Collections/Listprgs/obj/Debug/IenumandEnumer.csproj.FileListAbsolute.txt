@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Listprgs\bin\Debug\Listprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Listprgs\bin\Debug\Listprgs.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Listprgs\obj\Debug\IenumandEnumer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Listprgs\obj\Debug\Listprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Listprgs\obj\Debug\Listprgs.pdb

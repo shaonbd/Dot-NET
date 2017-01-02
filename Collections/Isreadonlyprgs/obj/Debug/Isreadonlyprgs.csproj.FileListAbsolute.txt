@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Isreadonlyprgs\bin\Debug\Isreadonlyprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Isreadonlyprgs\bin\Debug\Isreadonlyprgs.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Isreadonlyprgs\obj\Debug\Isreadonlyprgs.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Isreadonlyprgs\obj\Debug\Isreadonlyprgs.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Icomparableinterface1\bin\Debug\Icomparableinterface1.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Icomparableinterface1\bin\Debug\Icomparableinterface1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Icomparableinterface1\obj\Debug\Icomparableinterface1.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Icomparableinterface1\obj\Debug\Icomparableinterface1.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Icomparableinterface1\obj\Debug\Icomparableinterface1.csprojResolveAssemblyReference.cache

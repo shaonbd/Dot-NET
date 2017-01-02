@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Ienumerableclass\bin\Debug\Ienumerableclass.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Ienumerableclass\bin\Debug\Ienumerableclass.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Ienumerableclass\obj\Debug\Ienumerableclass.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Ienumerableclass\obj\Debug\Ienumerableclass.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Collections\Ienumerableclass\obj\Debug\Ienumerableclass.csprojResolveAssemblyReference.cache
